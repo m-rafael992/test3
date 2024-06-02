@@ -1,0 +1,6 @@
+{
+    "name": "cart-component",
+    "version": "1.0.0",
+    "main": "cart.bundle.js",
+    "license": "MIT"
+  }
